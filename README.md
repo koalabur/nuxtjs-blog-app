@@ -6,7 +6,7 @@
 
 ![alt text](https://lh3.googleusercontent.com/P-ZUEk2nqRdojQZXEDr72g-2z92yxlwHwdfjYo2A_eu10pr6GjtmnftRKG3JSOcphV8=w2400 "Vercel") [Vercel](https://vercel.com/)
 
-This Next.js web app was created to showcase:
+This Nuxt.js web app was created to showcase:
 - Nuxt/ Vue usage 
 - Dynamic slugs 
 - Content generated through the Contentful API 
