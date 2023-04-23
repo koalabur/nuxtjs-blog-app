@@ -1,0 +1,25 @@
+@mixin title-size {
+  font-size: #{fluid(36px, 80px)};
+}
+
+@mixin edge-padding {
+  padding: 0 10px;
+}
+
+@mixin mobile {
+  @media (max-width: 768px) {
+    @content;
+  }
+}
+
+@mixin laptop {
+  @media (max-width: 1024px) {
+    @content;
+  }
+}
+
+@mixin laptop-lg {
+  @media (max-width: 1200px) {
+    @content;
+  }
+}
